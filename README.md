@@ -116,6 +116,7 @@ For Database Management
 * [Timescale](https://www.timescale.com/) - Open-source time-series database fully compatible with Postgres, distributed as extension
 * [pgTAP](http://pgtap.org/) - Database testing framework for Postgres
 * [HypoPG](https://github.com/dalibo/hypopg) - HypoPG provides hypothetical/virtual indexes feature.
+* [pg\_crash](https://github.com/cybertec-postgresql/pg_crash) - Extension that allows you randomly crash your database infrastructure for HA and failover testing purposes.
 
 ### Optimization
 * [PgHero](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
